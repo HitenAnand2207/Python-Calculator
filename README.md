@@ -1,1 +1,1 @@
-A simple python calculator 
+A simple python calculator woth basic maths functions
